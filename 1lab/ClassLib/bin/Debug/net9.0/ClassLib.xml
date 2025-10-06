@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLib</name>
+    </assembly>
+    <members>
+        <member name="T:ClassLib.Figure">
+            <summary>
+            Представляет геометрическую фигуру и предоставляет методы для работы с ней
+            </summary>
+        </member>
+        <member name="M:ClassLib.Figure.#ctor(ClassLib.Point[])">
+            <summary>
+            Инициализирует новую фигуру с указанными точками
+            </summary>
+            <param name="points">Массив точек, определяющих фигуру</param>
+        </member>
+        <member name="M:ClassLib.Figure.isTrapezoid(ClassLib.Point[])">
+            <summary>
+            Проверяет, является ли фигура трапецией
+            </summary>
+            <param name="points">Массив точек фигуры</param>
+            <returns>True если фигура является трапецией, иначе False</returns>
+        </member>
+        <member name="M:ClassLib.Figure.isSidesParallel(ClassLib.Point,ClassLib.Point,ClassLib.Point,ClassLib.Point)">
+            <summary>
+            Проверяет параллельность двух сторон
+            </summary>
+            <param name="p1">Первая точка первой стороны</param>
+            <param name="p2">Вторая точка первой стороны</param>
+            <param name="p3">Первая точка второй стороны</param>
+            <param name="p4">Вторая точка второй стороны</param>
+            <returns>True если стороны параллельны</returns>
+        </member>
+        <member name="M:ClassLib.Figure.getSideLength(ClassLib.Point,ClassLib.Point)">
+            <summary>
+            Вычисляет длину отрезка между двумя точками
+            </summary>
+            <param name="p1">Первая точка</param>
+            <param name="p2">Вторая точка</param>
+            <returns>Длина отрезка</returns>
+        </member>
+        <member name="M:ClassLib.Figure.getPerimeter(ClassLib.Point[])">
+            <summary>
+            Вычисляет периметр фигуры
+            </summary>
+            <param name="points">Массив точек фигуры</param>
+            <returns>Периметр фигуры</returns>
+        </member>
+        <member name="M:ClassLib.Figure.getArea(ClassLib.Point[])">
+            <summary>
+            Вычисляет площадь фигуры (трапеции)
+            </summary>
+            <param name="points">Массив точек фигуры</param>
+            <returns>Площадь фигуры</returns>
+        </member>
+        <member name="M:ClassLib.Figure.getHeight(ClassLib.Point,ClassLib.Point,ClassLib.Point,ClassLib.Point)">
+            <summary>
+            Вычисляет высоту трапеции
+            </summary>
+            <param name="A">Первая точка основания</param>
+            <param name="B">Вторая точка основания</param>
+            <param name="C">Первая точка противоположной стороны</param>
+            <param name="D">Вторая точка противоположной стороны</param>
+            <returns>Высота трапеции</returns>
+        </member>
+        <member name="M:ClassLib.Figure.isPointOnBorder(ClassLib.Point[],ClassLib.Point)">
+            <summary>
+            Проверяет, находится ли точка на границе фигуры
+            </summary>
+            <param name="points">Массив точек фигуры</param>
+            <param name="point">Проверяемая точка</param>
+            <returns>True если точка находится на границе</returns>
+        </member>
+        <member name="M:ClassLib.Figure.isPointInside(ClassLib.Point[],ClassLib.Point)">
+            <summary>
+            Проверяет, находится ли точка внутри фигуры
+            </summary>
+            <param name="points">Массив точек фигуры</param>
+            <param name="point">Проверяемая точка</param>
+            <returns>True если точка находится внутри фигуры</returns>
+        </member>
+        <member name="M:ClassLib.Figure.isPointOnLine(ClassLib.Point,ClassLib.Point,ClassLib.Point)">
+            <summary>
+            Проверяет, находится ли точка на отрезке между двумя точками
+            </summary>
+            <param name="p1">Первая точка отрезка</param>
+            <param name="p2">Вторая точка отрезка</param>
+            <param name="point">Проверяемая точка</param>
+            <returns>True если точка находится на отрезке</returns>
+        </member>
+        <member name="T:ClassLib.Point">
+            <summary>
+            Представляет точку в двумерном пространстве
+            </summary>
+            <param name="x">Координата X точки</param>
+            <param name="y">Координата Y точки</param>
+        </member>
+        <member name="M:ClassLib.Point.#ctor(System.Double,System.Double)">
+            <summary>
+            Представляет точку в двумерном пространстве
+            </summary>
+            <param name="x">Координата X точки</param>
+            <param name="y">Координата Y точки</param>
+        </member>
+        <member name="P:ClassLib.Point.x">
+            <summary>Координата X точки</summary>
+        </member>
+        <member name="P:ClassLib.Point.y">
+            <summary>Координата Y точки</summary>
+        </member>
+    </members>
+</doc>

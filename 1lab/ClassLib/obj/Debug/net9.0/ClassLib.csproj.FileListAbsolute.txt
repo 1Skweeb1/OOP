@@ -31,3 +31,17 @@ D:\unik\2Kurs\OOP\1lab\ClassLib\obj\Debug\net9.0\ClassLib.dll
 D:\unik\2Kurs\OOP\1lab\ClassLib\obj\Debug\net9.0\refint\ClassLib.dll
 D:\unik\2Kurs\OOP\1lab\ClassLib\obj\Debug\net9.0\ClassLib.pdb
 D:\unik\2Kurs\OOP\1lab\ClassLib\obj\Debug\net9.0\ref\ClassLib.dll
+D:\unik\OOP\1lab\ClassLib\bin\Debug\net9.0\ClassLib.deps.json
+D:\unik\OOP\1lab\ClassLib\bin\Debug\net9.0\ClassLib.dll
+D:\unik\OOP\1lab\ClassLib\bin\Debug\net9.0\ClassLib.pdb
+D:\unik\OOP\1lab\ClassLib\obj\Debug\net9.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\unik\OOP\1lab\ClassLib\obj\Debug\net9.0\ClassLib.AssemblyInfoInputs.cache
+D:\unik\OOP\1lab\ClassLib\obj\Debug\net9.0\ClassLib.AssemblyInfo.cs
+D:\unik\OOP\1lab\ClassLib\obj\Debug\net9.0\ClassLib.csproj.CoreCompileInputs.cache
+D:\unik\OOP\1lab\ClassLib\obj\Debug\net9.0\ClassLib.sourcelink.json
+D:\unik\OOP\1lab\ClassLib\obj\Debug\net9.0\ClassLib.dll
+D:\unik\OOP\1lab\ClassLib\obj\Debug\net9.0\refint\ClassLib.dll
+D:\unik\OOP\1lab\ClassLib\obj\Debug\net9.0\ClassLib.pdb
+D:\unik\OOP\1lab\ClassLib\obj\Debug\net9.0\ref\ClassLib.dll
+D:\unik\OOP\1lab\ClassLib\bin\Debug\net9.0\ClassLib.xml
+D:\unik\OOP\1lab\ClassLib\obj\Debug\net9.0\ClassLib.xml
