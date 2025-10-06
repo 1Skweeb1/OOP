@@ -4,15 +4,14 @@ Figure figure = new Figure(points);
 bool exit = false;
 bool isTrapezoid = false;
 
-
 void enterPoints(Point[] points)
 {
-    Console.WriteLine("Enter points of trapezoid clockwise: ");
+    Console.WriteLine("Введите точки трапеции по часовой стрелке: ");
     for (int i = 0; i < 4; i++)
     {
-        Console.WriteLine("Enter x: ");
+        Console.WriteLine("Введите x: ");
         double x = Convert.ToDouble(Console.ReadLine());
-        Console.WriteLine("Enter y: ");
+        Console.WriteLine("Введите y: ");
         double y = Convert.ToDouble(Console.ReadLine());
         points[i] = new Point(x, y);
     }
@@ -20,20 +19,23 @@ void enterPoints(Point[] points)
 
 void checkPointBelongsTrapezoid()
 {
-    Console.WriteLine("Enter x: ");
+    Console.WriteLine("Введите x: ");
     double x = Convert.ToDouble(Console.ReadLine());
-    Console.WriteLine("Enter y: ");
+    Console.WriteLine("Введите y: ");
     double y = Convert.ToDouble(Console.ReadLine());
     Point point = new Point(x, y);
-    if (figure.isPointOnBorder(points, point)) Console.WriteLine("Point is on border of trapezoid");
-    else if (figure.isPointInside(points, point)) Console.WriteLine("Point belongs to trapezoid");
-    else Console.WriteLine("Point doesn't belong to trapezoid");
+    if (figure.isPointOnBorder(points, point)) 
+        Console.WriteLine("Точка находится на границе трапеции");
+    else if (figure.isPointInside(points, point)) 
+        Console.WriteLine("Точка принадлежит трапеции");
+    else 
+        Console.WriteLine("Точка не принадлежит трапеции");
 }
 
 while (!exit)
 {
     Console.WriteLine("----------------------------------------------------------------------------");
-    Console.WriteLine("Enter your choice: \n 1 - Enter points of trapezoid \n 2 - solve perimeter of entered trapezoid \n 3 - solve area of entered trapezoid \n 4 - entering a point to check whether it belongs to a trapezoid \n 5 - exit");
+    Console.WriteLine("Выберите действие: \n 1 - Ввод точек трапеции \n 2 - Вычисление периметра трапеции \n 3 - Вычисление площади трапеции \n 4 - Проверка принадлежности точки трапеции \n 5 - Выход");
     Console.WriteLine("----------------------------------------------------------------------------");
     int choice = Convert.ToInt32(Console.ReadLine());
     switch (choice)
@@ -41,26 +43,37 @@ while (!exit)
         case 1:
             enterPoints(points);
             isTrapezoid = figure.isTrapezoid(points);
-            if (!isTrapezoid) { Console.WriteLine("Entered figure is not a trapezoid, try again."); break; }
+            if (!isTrapezoid) { 
+                Console.WriteLine("Введенная фигура не является трапецией, попробуйте снова."); 
+                break; 
+            }
             break;
         case 2:
-            if (!isTrapezoid) { Console.WriteLine("Entered figure is not a trapezoid, try again."); break; }
-            Console.WriteLine("Perimeter: " + Figure.getPerimeter(points));
+            if (!isTrapezoid) { 
+                Console.WriteLine("Введенная фигура не является трапецией, попробуйте снова."); 
+                break; 
+            }
+            Console.WriteLine("Периметр: " + Figure.getPerimeter(points));
             break;
         case 3:
-            if (!isTrapezoid) { Console.WriteLine("Entered figure is not a trapezoid, try again."); break; }
-            Console.WriteLine("Area: " + Figure.getArea(points));
+            if (!isTrapezoid) { 
+                Console.WriteLine("Введенная фигура не является трапецией, попробуйте снова."); 
+                break; 
+            }
+            Console.WriteLine("Площадь: " + Figure.getArea(points));
             break;
         case 4:
-            if (!isTrapezoid) { Console.WriteLine("Entered figure is not a trapezoid, try again."); break; }
+            if (!isTrapezoid) { 
+                Console.WriteLine("Введенная фигура не является трапецией, попробуйте снова."); 
+                break; 
+            }
             checkPointBelongsTrapezoid();
             break;
         case 5:
             exit = true;
             break;
         default:
+            Console.WriteLine("Неверный выбор, попробуйте снова.");
             break;
     }
 }
-
-

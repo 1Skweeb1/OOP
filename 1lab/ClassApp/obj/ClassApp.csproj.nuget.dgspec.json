@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\unik\\2Kurs\\OOP\\1lab\\ClassApp\\ClassApp.csproj": {}
+    "D:\\unik\\OOP\\1lab\\ClassApp\\ClassApp.csproj": {}
   },
   "projects": {
-    "D:\\unik\\2Kurs\\OOP\\1lab\\ClassApp\\ClassApp.csproj": {
+    "D:\\unik\\OOP\\1lab\\ClassApp\\ClassApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\unik\\2Kurs\\OOP\\1lab\\ClassApp\\ClassApp.csproj",
+        "projectUniqueName": "D:\\unik\\OOP\\1lab\\ClassApp\\ClassApp.csproj",
         "projectName": "ClassApp",
-        "projectPath": "D:\\unik\\2Kurs\\OOP\\1lab\\ClassApp\\ClassApp.csproj",
-        "packagesPath": "C:\\Users\\skwee\\.nuget\\packages\\",
-        "outputPath": "D:\\unik\\2Kurs\\OOP\\1lab\\ClassApp\\obj\\",
+        "projectPath": "D:\\unik\\OOP\\1lab\\ClassApp\\ClassApp.csproj",
+        "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+        "outputPath": "D:\\unik\\OOP\\1lab\\ClassApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\skwee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\unik\\2Kurs\\OOP\\1lab\\ClassLib\\ClassLib.csproj": {
-                "projectPath": "D:\\unik\\2Kurs\\OOP\\1lab\\ClassLib\\ClassLib.csproj"
+              "D:\\unik\\OOP\\1lab\\ClassLib\\ClassLib.csproj": {
+                "projectPath": "D:\\unik\\OOP\\1lab\\ClassLib\\ClassLib.csproj"
               }
             }
           }
@@ -67,17 +67,17 @@
         }
       }
     },
-    "D:\\unik\\2Kurs\\OOP\\1lab\\ClassLib\\ClassLib.csproj": {
+    "D:\\unik\\OOP\\1lab\\ClassLib\\ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\unik\\2Kurs\\OOP\\1lab\\ClassLib\\ClassLib.csproj",
+        "projectUniqueName": "D:\\unik\\OOP\\1lab\\ClassLib\\ClassLib.csproj",
         "projectName": "ClassLib",
-        "projectPath": "D:\\unik\\2Kurs\\OOP\\1lab\\ClassLib\\ClassLib.csproj",
-        "packagesPath": "C:\\Users\\skwee\\.nuget\\packages\\",
-        "outputPath": "D:\\unik\\2Kurs\\OOP\\1lab\\ClassLib\\obj\\",
+        "projectPath": "D:\\unik\\OOP\\1lab\\ClassLib\\ClassLib.csproj",
+        "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+        "outputPath": "D:\\unik\\OOP\\1lab\\ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\skwee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
