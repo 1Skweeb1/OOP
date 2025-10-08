@@ -1,0 +1,14 @@
+D:\unik\2Kurs\OOP\2lab\ClassLib\bin\Debug\net9.0\ClassLib.Second.deps.json
+D:\unik\2Kurs\OOP\2lab\ClassLib\bin\Debug\net9.0\ClassLib.Second.dll
+D:\unik\2Kurs\OOP\2lab\ClassLib\bin\Debug\net9.0\ClassLib.Second.pdb
+D:\unik\2Kurs\OOP\2lab\ClassLib\bin\Debug\net9.0\ClassLib.Second.xml
+D:\unik\2Kurs\OOP\2lab\ClassLib\obj\Debug\net9.0\ClassLib.Second.GeneratedMSBuildEditorConfig.editorconfig
+D:\unik\2Kurs\OOP\2lab\ClassLib\obj\Debug\net9.0\ClassLib.Second.AssemblyInfoInputs.cache
+D:\unik\2Kurs\OOP\2lab\ClassLib\obj\Debug\net9.0\ClassLib.Second.AssemblyInfo.cs
+D:\unik\2Kurs\OOP\2lab\ClassLib\obj\Debug\net9.0\ClassLib.Second.csproj.CoreCompileInputs.cache
+D:\unik\2Kurs\OOP\2lab\ClassLib\obj\Debug\net9.0\ClassLib.Second.sourcelink.json
+D:\unik\2Kurs\OOP\2lab\ClassLib\obj\Debug\net9.0\ClassLib.Second.dll
+D:\unik\2Kurs\OOP\2lab\ClassLib\obj\Debug\net9.0\refint\ClassLib.Second.dll
+D:\unik\2Kurs\OOP\2lab\ClassLib\obj\Debug\net9.0\ClassLib.Second.xml
+D:\unik\2Kurs\OOP\2lab\ClassLib\obj\Debug\net9.0\ClassLib.Second.pdb
+D:\unik\2Kurs\OOP\2lab\ClassLib\obj\Debug\net9.0\ref\ClassLib.Second.dll

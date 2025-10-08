@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLib.Second</name>
+    </assembly>
+    <members>
+        <member name="T:ClassLib.Second.Vector">
+            <summary>
+            3 dimensioned vector
+            </summary>
+            <param name="X"></param>
+            <param name="Y"></param>
+            <param name="Z"></param>
+        </member>
+        <member name="M:ClassLib.Second.Vector.#ctor(System.Double,System.Double,System.Double)">
+            <summary>
+            3 dimensioned vector
+            </summary>
+            <param name="X"></param>
+            <param name="Y"></param>
+            <param name="Z"></param>
+        </member>
+        <member name="P:ClassLib.Second.Vector.X">
+            <summary></summary>
+        </member>
+        <member name="P:ClassLib.Second.Vector.Y">
+            <summary></summary>
+        </member>
+        <member name="P:ClassLib.Second.Vector.Z">
+            <summary></summary>
+        </member>
+        <member name="M:ClassLib.Second.Vector.op_Subtraction(ClassLib.Second.Vector,ClassLib.Second.Vector)">
+            <summary>
+            vector subtraction first minus second
+            </summary>
+            <param name="first"></param>
+            <param name="second"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ClassLib.Second.Vector.op_Addition(ClassLib.Second.Vector,ClassLib.Second.Vector)">
+            <summary>
+            vector addition 
+            </summary>
+            <param name="first"></param>
+            <param name="second"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ClassLib.Second.Vector.op_Multiply(ClassLib.Second.Vector,ClassLib.Second.Vector)">
+            <summary>
+            vector multiplication
+            </summary>
+            <param name="first"></param>
+            <param name="second"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
