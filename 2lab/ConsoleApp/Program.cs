@@ -1,5 +1,4 @@
 ﻿using ClassLib.Second;
-
 Console.WriteLine("Введите первый вектор: ");
 var firstVector = EnterVector();
 Console.WriteLine("Введите второй вектор: ");
