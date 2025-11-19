@@ -346,6 +346,29 @@
             "related": ".xml"
           }
         }
+      },
+      "ClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary.dll": {}
+        }
+      },
+      "ConsoleApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "ClassLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleApp.dll": {}
+        }
       }
     }
   },
@@ -793,10 +816,22 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary/ClassLibrary.csproj",
+      "msbuildProject": "../ClassLibrary/ClassLibrary.csproj"
+    },
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApp/ConsoleApp.csproj",
+      "msbuildProject": "../ConsoleApp/ConsoleApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "ClassLibrary >= 1.0.0",
+      "ConsoleApp >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "NUnit >= 4.2.2",
       "NUnit.Analyzers >= 4.4.0",
@@ -828,7 +863,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\unik\\2Kurs\\OOP\\4lab\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "D:\\unik\\2Kurs\\OOP\\4lab\\ClassLibrary\\ClassLibrary.csproj"
+            },
+            "D:\\unik\\2Kurs\\OOP\\4lab\\ConsoleApp\\ConsoleApp.csproj": {
+              "projectPath": "D:\\unik\\2Kurs\\OOP\\4lab\\ConsoleApp\\ConsoleApp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
