@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unik\\2Kurs\\OOP\\6lab\\sln6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8214CF-4C11-48AB-9FF0-DB5A7DA7B221}|WinFormsApp\\WinFormsApp.csproj|d:\\unik\\2kurs\\oop\\6lab\\sln6\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8214CF-4C11-48AB-9FF0-DB5A7DA7B221}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06906-C775-9C32-22F8-1C5186A1853C}|..\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\6lab\\classlibrary\\classlibrary\\sessionlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06906-C775-9C32-22F8-1C5186A1853C}|..\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\6lab\\classlibrary\\classlibrary\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AB2FAE-8266-4971-B82D-549CE5F6C132}|TestProject\\TestProject.csproj|d:\\unik\\2kurs\\oop\\6lab\\sln6\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AB2FAE-8266-4971-B82D-549CE5F6C132}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\6lab\\sln6\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\6lab\\sln6\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:50:33.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\6lab\\sln6\\WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Form1.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\6lab\\sln6\\WinFormsApp\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwCoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:02:23.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\6lab\\ClassLibrary\\ClassLibrary\\Student.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ClassLibrary\\Student.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\6lab\\ClassLibrary\\ClassLibrary\\Student.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ClassLibrary\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:07:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionLib.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\6lab\\ClassLibrary\\ClassLibrary\\SessionLib.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ClassLibrary\\SessionLib.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\6lab\\ClassLibrary\\ClassLibrary\\SessionLib.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ClassLibrary\\SessionLib.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:48:26.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
