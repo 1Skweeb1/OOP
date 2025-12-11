@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unik\\2Kurs\\OOP\\8lab\\8sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{351E1F76-6CB5-5F78-5731-884EB3FF7FB4}|..\\WinFormsApp\\WinFormsApp.csproj|d:\\unik\\2kurs\\oop\\8lab\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E1F76-6CB5-5F78-5731-884EB3FF7FB4}|..\\WinFormsApp\\WinFormsApp.csproj|d:\\unik\\2kurs\\oop\\8lab\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2ED15D-4230-EAD9-C115-32EF5776BA9B}|..\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\8lab\\classlibrary\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2ED15D-4230-EAD9-C115-32EF5776BA9B}|..\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\8lab\\classlibrary\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2ED15D-4230-EAD9-C115-32EF5776BA9B}|..\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\8lab\\classlibrary\\figuremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2ED15D-4230-EAD9-C115-32EF5776BA9B}|..\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\8lab\\classlibrary\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89689E2-8056-40A5-AF18-C2B9465326D1}|..\\WinFormsApp\\WinFormsApp.csproj|d:\\unik\\2kurs\\oop\\8lab\\winformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2ED15D-4230-EAD9-C115-32EF5776BA9B}|..\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\8lab\\classlibrary\\listboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2ED15D-4230-EAD9-C115-32EF5776BA9B}|..\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\8lab\\classlibrary\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\Point.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\Point.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\Point.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:52:37.162Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\Circle.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\Circle.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\Circle.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:56:50.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\8lab\\WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp\\Form1.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\8lab\\WinFormsApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\WinFormsApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:52:55.988Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\8lab\\WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp\\Form1.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\8lab\\WinFormsApp\\Form1.cs",
+              "RelativeToolTip": "..\\WinFormsApp\\Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:30:26.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListBoxItem.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\ListBoxItem.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ListBoxItem.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\ListBoxItem.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ListBoxItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T16:05:31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\8lab\\WinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp\\Form1.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\8lab\\WinFormsApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\WinFormsApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:56:16.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFigure.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\IFigure.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\IFigure.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\IFigure.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\IFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:03:54.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FigureManager.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\FigureManager.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\FigureManager.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\FigureManager.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\FigureManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:33:23.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\Square.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\Square.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\8lab\\ClassLibrary\\Square.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:23:42.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
