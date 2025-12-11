@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unik\\2Kurs\\OOP\\7lab\\7lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3EC9DD-18B3-40B1-F290-872E6F2E857E}|..\\WpfApp1\\WpfApp1.csproj|d:\\unik\\2kurs\\oop\\7lab\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06906-C775-9C32-22F8-1C5186A1853C}|..\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\7lab\\classlibrary\\classlibrary\\cloth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06906-C775-9C32-22F8-1C5186A1853C}|..\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\7lab\\classlibrary\\classlibrary\\trousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06906-C775-9C32-22F8-1C5186A1853C}|..\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\7lab\\classlibrary\\classlibrary\\clothmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06906-C775-9C32-22F8-1C5186A1853C}|..\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\7lab\\classlibrary\\classlibrary\\costume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06906-C775-9C32-22F8-1C5186A1853C}|..\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\7lab\\classlibrary\\classlibrary\\skirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06906-C775-9C32-22F8-1C5186A1853C}|..\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj|d:\\unik\\2kurs\\oop\\7lab\\classlibrary\\classlibrary\\coat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cloth.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\Cloth.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ClassLibrary\\Cloth.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\Cloth.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ClassLibrary\\Cloth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:55:00.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trousers.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\Trousers.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ClassLibrary\\Trousers.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\Trousers.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ClassLibrary\\Trousers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:58:10.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\7lab\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\7lab\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAmwJgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:28:22.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Skirt.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\Skirt.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ClassLibrary\\Skirt.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\Skirt.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ClassLibrary\\Skirt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:58:07.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Costume.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\Costume.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ClassLibrary\\Costume.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\Costume.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ClassLibrary\\Costume.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:58:02.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coat.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\Coat.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ClassLibrary\\Coat.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\Coat.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ClassLibrary\\Coat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:57:50.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClothManager.cs",
+              "DocumentMoniker": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\ClothManager.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary\\ClassLibrary\\ClothManager.cs",
+              "ToolTip": "D:\\unik\\2Kurs\\OOP\\7lab\\ClassLibrary\\ClassLibrary\\ClothManager.cs",
+              "RelativeToolTip": "..\\ClassLibrary\\ClassLibrary\\ClothManager.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:14:42.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ClassLibrary/ClassLibrary/ClassLibrary.csproj" />
+  <Project Path="../WpfApp1/WpfApp1.csproj" />
+</Solution>
