@@ -33,12 +33,14 @@
             btnSortByArea = new Button();
             btnPerimeters = new Button();
             btnCircleLengths = new Button();
+            txtFile = new TextBox();
+            BtnSaveFile = new Button();
             SuspendLayout();
             // 
             // listBoxFigures
             // 
             listBoxFigures.FormattingEnabled = true;
-            listBoxFigures.Location = new Point(296, 127);
+            listBoxFigures.Location = new Point(36, 123);
             listBoxFigures.Name = "listBoxFigures";
             listBoxFigures.Size = new Size(603, 464);
             listBoxFigures.TabIndex = 0;
@@ -83,11 +85,33 @@
             btnCircleLengths.UseVisualStyleBackColor = true;
             btnCircleLengths.Click += BtnCircleLengths_Click;
             // 
+            // txtFile
+            // 
+            txtFile.Location = new Point(877, 116);
+            txtFile.Multiline = true;
+            txtFile.Name = "txtFile";
+            txtFile.ScrollBars = ScrollBars.Both;
+            txtFile.Size = new Size(512, 461);
+            txtFile.TabIndex = 5;
+            txtFile.WordWrap = false;
+            // 
+            // BtnSaveFile
+            // 
+            BtnSaveFile.Location = new Point(1068, 583);
+            BtnSaveFile.Name = "BtnSaveFile";
+            BtnSaveFile.Size = new Size(167, 42);
+            BtnSaveFile.TabIndex = 6;
+            BtnSaveFile.Text = "Редактировать файл";
+            BtnSaveFile.UseVisualStyleBackColor = true;
+            BtnSaveFile.Click += BtnSaveFile_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1429, 660);
+            Controls.Add(BtnSaveFile);
+            Controls.Add(txtFile);
             Controls.Add(btnCircleLengths);
             Controls.Add(btnPerimeters);
             Controls.Add(btnSortByArea);
@@ -96,6 +120,7 @@
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -105,5 +130,7 @@
         private Button btnSortByArea;
         private Button btnPerimeters;
         private Button btnCircleLengths;
+        private TextBox txtFile;
+        private Button BtnSaveFile;
     }
 }

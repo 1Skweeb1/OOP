@@ -1,15 +1,16 @@
+using ClassLibrary;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Formats.Tar;
 using System.Windows.Forms;
-using ClassLibrary;
 
 namespace WinFormsApp
 {
     public partial class Form1 : Form
     {
         private FigureManager manager = new FigureManager();
-
+        private string currentFilePath;
         public Form1()
         {
             InitializeComponent();
@@ -54,7 +55,9 @@ namespace WinFormsApp
                 ofd.Filter = "Text files (*.txt)|*.txt|All files (*.*)|*.*";
                 if (ofd.ShowDialog() == DialogResult.OK)
                 {
+                    currentFilePath = ofd.FileName;
                     manager.LoadFromFile(ofd.FileName);
+                    txtFile.Text = File.ReadAllText(currentFilePath);
                     RefreshListBox();
                 }
             }
@@ -98,7 +101,6 @@ namespace WinFormsApp
             var sortedCircles = new List<Circle>(circles);
             sortedCircles.Sort((c1, c2) => c2.CircleLength().CompareTo(c1.CircleLength()));
 
-            // Выводим информацию полностью + длина
             int count = 1;
             foreach (var circle in sortedCircles)
             {
@@ -107,6 +109,29 @@ namespace WinFormsApp
                 count++;
             }
         }
+
+        private void BtnSaveFile_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(currentFilePath))
+            {
+                MessageBox.Show("Сначала загрузите файл");
+                return;
+            }
+
+            File.WriteAllText(currentFilePath, txtFile.Text);
+
+            manager.LoadFromFile(currentFilePath);
+            RefreshListBox();
+
+            MessageBox.Show("Файл сохранён");
+        }
+
+        //private void RefreshListBox()
+        //{
+        //    listBoxFigures.Items.Clear();
+        //    foreach (var fig in manager.Figures)
+        //        listBoxFigures.Items.Add(fig.GetInfo());
+        //}
 
     }
 }
